@@ -1,0 +1,32 @@
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Cost Matrix for Binary Classification}}{6}{table.2.1}% 
+\contentsline {table}{\numberline {2.2}{\ignorespaces Confusion Matrix for Binary Classification}}{10}{table.2.2}% 
+\contentsline {table}{\numberline {2.3}{\ignorespaces Evaluation Metrics based on Confusion Matrix}}{11}{table.2.3}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Unstable Confusion Matrix}}{17}{table.3.1}% 
+\contentsline {table}{\numberline {3.2}{\ignorespaces Updating Weight Pair}}{18}{table.3.2}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Characteristics of used Datasets from Medical or Healthcare Sector}}{23}{table.4.1}% 
+\contentsline {table}{\numberline {4.2}{\ignorespaces Characteristics of used Datasets from Other Fields}}{23}{table.4.2}% 
+\contentsline {table}{\numberline {4.3}{\ignorespaces Comparison of Before and After One Hot Encoding for Attribute `referral source' in Thyroid Sick Dataset}}{26}{table.4.3}% 
+\contentsline {table}{\numberline {4.4}{\ignorespaces Overall Results for Euthyroid Sick Dataset}}{27}{table.4.4}% 
+\contentsline {table}{\numberline {4.5}{\ignorespaces Overall Results for Thyroid Sick Dataset}}{27}{table.4.5}% 
+\contentsline {table}{\numberline {4.6}{\ignorespaces Overall Results for PH1 Dataset}}{27}{table.4.6}% 
+\contentsline {table}{\numberline {4.7}{\ignorespaces Overall Results for PH2 Dataset}}{28}{table.4.7}% 
+\contentsline {table}{\numberline {4.8}{\ignorespaces Overall Results for optdigits Dataset}}{28}{table.4.8}% 
+\contentsline {table}{\numberline {4.9}{\ignorespaces Overall Results for MGC Dataset}}{28}{table.4.9}% 
+\contentsline {table}{\numberline {4.10}{\ignorespaces Overall Results for WDBC Dataset}}{29}{table.4.10}% 
+\contentsline {table}{\numberline {4.11}{\ignorespaces Overall Results for PID Dataset}}{29}{table.4.11}% 
+\contentsline {table}{\numberline {4.12}{\ignorespaces Overall Results for Yeast1vs7 Dataset}}{29}{table.4.12}% 
+\contentsline {table}{\numberline {4.13}{\ignorespaces Overall Results for Poker8vs6 Dataset}}{30}{table.4.13}% 
+\contentsline {table}{\numberline {4.14}{\ignorespaces Overall Results for Poker89vs6 Dataset}}{30}{table.4.14}% 
+\contentsline {table}{\numberline {4.15}{\ignorespaces Overall Results for Cm1 Dataset}}{30}{table.4.15}% 
+\contentsline {table}{\numberline {4.16}{\ignorespaces Overall Results for Pc1 Dataset}}{31}{table.4.16}% 
+\contentsline {table}{\numberline {4.17}{\ignorespaces Overall Results for Pc4 Dataset}}{31}{table.4.17}% 
+\contentsline {table}{\numberline {4.18}{\ignorespaces Overall Results for Pc3 Dataset}}{31}{table.4.18}% 
+\contentsline {table}{\numberline {4.19}{\ignorespaces Recall for for All Models on the Nine Medical Public Datasets}}{32}{table.4.19}% 
+\contentsline {table}{\numberline {4.20}{\ignorespaces Learning Time for All Models on the Public Datasets}}{33}{table.4.20}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Pros and Cons of different Techniques utilized for dealing with Class Imbalance Problem}}{45}{table.5.1}% 

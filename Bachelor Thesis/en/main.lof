@@ -1,0 +1,42 @@
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Class distribution on the dataset with IR=1.684}}{3}{figure.2.1}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Class distribution on the dataset with IR=12}}{3}{figure.2.2}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces SMOTE working procedure \cite {100}}}{8}{figure.2.3}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces The process of the combination of the ultimate strong learner in \textit {AdaBoost}}}{9}{figure.2.4}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces An example of PR Curve}}{12}{figure.2.5}% 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces An example of ROC Curve}}{12}{figure.2.6}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Comparison of Euclidean Distance and Mahalanobis Distance \cite [Fig.1]{76}}}{14}{figure.3.1}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The procedure of LMNN Distance Metric Learning}}{15}{figure.3.2}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Distribution of Attribute `sex' in Thyroid Sick Dataset}}{24}{figure.4.1}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 8 Top Values of Attribute `age' in Euthyroid Sick Dataset}}{24}{figure.4.2}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Box Plot for Attribute `Glucose' in PID Dataset}}{25}{figure.4.3}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Box Plot for Attribute `Blood Pressure' in PID Dataset}}{25}{figure.4.4}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Recall: Impact of Imbalance Ratio}}{34}{figure.4.5}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces G-mean: Impact of Imbalance Ratio}}{34}{figure.4.6}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces F1: Impact of Imbalance Ratio}}{35}{figure.4.7}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces AUCPRC: Impact of Imbalance Ratio}}{35}{figure.4.8}% 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces DDAE: Impact of the Size of Dataset}}{35}{figure.4.9}% 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces IML: Impact of the Size of Dataset}}{35}{figure.4.10}% 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces self-paced: Impact of the Size of Dataset}}{35}{figure.4.11}% 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces MetaCost: Impact of the Size of Dataset}}{36}{figure.4.12}% 
+\contentsline {figure}{\numberline {4.13}{\ignorespaces CAdaMEC: Impact of the Size of Dataset}}{36}{figure.4.13}% 
+\contentsline {figure}{\numberline {4.14}{\ignorespaces csDCT: Impact of the Size of Dataset}}{36}{figure.4.14}% 
+\contentsline {figure}{\numberline {4.15}{\ignorespaces AdaBoost: Impact of the Size of Dataset}}{36}{figure.4.15}% 
+\contentsline {figure}{\numberline {4.16}{\ignorespaces RUSBoost: Impact of the Size of Dataset}}{36}{figure.4.16}% 
+\contentsline {figure}{\numberline {4.17}{\ignorespaces MWMOTE: Impact of the Size of Dataset}}{36}{figure.4.17}% 
+\contentsline {figure}{\numberline {4.18}{\ignorespaces SMOTE: Impact of the Size of Dataset}}{36}{figure.4.18}% 
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Effectiveness of DDAE on Euthyroid Sick Dataset}}{38}{figure.4.19}% 
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Effectiveness of DDAE on PH1 Dataset}}{38}{figure.4.20}% 
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Impact of the Number of Data Blocks on CM1}}{38}{figure.4.21}% 
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Impact of the Number of Data Blocks on MW1}}{38}{figure.4.22}% 
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Impact of the relative Weight between the Pull and Push Terms on MW1}}{39}{figure.4.23}% 
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Impact of the relative Weight between the Pull and Push Terms on CM1}}{39}{figure.4.24}% 
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Impact of Unstable Ratio on CM1}}{39}{figure.4.25}% 
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Impact of Unstable Ratio on MW1}}{39}{figure.4.26}% 
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Impact of Cost Ratio on MW1}}{40}{figure.4.27}% 
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Impact of Cost Ratio on CM1}}{40}{figure.4.28}% 
+\addvspace {10\p@ }
